@@ -1,0 +1,5 @@
+{
+  "name": "装配卡片",
+  "description": "一个支持导入CSV数据的知识卡片测试应用，支持翻转、计分、乱序等功能。",
+  "requestFramePermissions": []
+}
